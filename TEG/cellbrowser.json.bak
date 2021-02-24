@@ -1,0 +1,25 @@
+{
+  "name": "TEG",
+  "shortLabel": "TEG",
+  "exprMatrix": "exprMatrix.tsv.gz",
+  "meta": "meta.tsv",
+  "geneIdType": "auto",
+  "clusterField": "Clusters",
+  "labelField": "Clusters",
+  "enumFields": [
+    "Clusters"
+  ],
+  "markers": [
+    {
+      "file": "/Users/peterbrazda/Dropbox/PMC/research/projects/BreastCancer/analysis/SORTseq/Seurat/browser4/markers.txt",
+      "shortLabel": "Seurat Cluster Markers"
+    }
+  ],
+  "coords": [
+    {
+      "file": "/Users/peterbrazda/Dropbox/PMC/research/projects/BreastCancer/analysis/SORTseq/Seurat/browser4/umap.coords.tsv",
+      "shortLabel": "Seurat umap"
+    }
+  ],
+  "inDir": ""
+}
